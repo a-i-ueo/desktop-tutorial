@@ -17,3 +17,6 @@ IT未経験からエンジニア転職を目指し、学習内容のアウトプ
 - Webページの作成
 - デザインの改善
 - JavaScriptの学習・追加
+
+## 公開URL
+https://github.com/a-i-ueo/desktop-tutorial/
