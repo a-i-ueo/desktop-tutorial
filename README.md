@@ -1,5 +1,19 @@
-# Welcome to GitHub Desktop!
+#　ポートフォリオ
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+## 概要
+IT未経験からエンジニア転職を目指し、学習内容のアウトプットとして作成しました。
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## 使用技術
+- HTML
+- CSS
+- Git/GitHub
+
+##　学んだこと
+- GitHubwo使った基本的な開発フロー
+- ファイルの管理方法
+- READMEによる情報整理の重要性
+
+##　今後の予定
+-　Webページの作成
+-　デザインの改善
+- JavaScriptの学習・追加
