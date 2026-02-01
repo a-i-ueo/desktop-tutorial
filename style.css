@@ -12,7 +12,7 @@ body{
             background: white;
             padding: 40px;
             border-radius: 10px;
-            box-shadow: 0 4px 12px rgba(0,0,0,0,08);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
         }
         h1 {
             margin-top: 0;
@@ -23,4 +23,3 @@ body{
             padding-bottom: 8px;
             margin-top: 40px;
         }
-     }
